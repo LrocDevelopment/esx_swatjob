@@ -25,11 +25,11 @@ This is remake of esx_policejob
 
 
 ## Installing
-1. drag and drop files in resources folder
-2. go server.cfg and put "start esx_swatjob"
+- drag and drop files in resources folder
+- go server.cfg and put "start esx_swatjob"
 
 ## TODO
-1. medicine cabinet
-2. cctv
-3. 
-4. Very good optimized
+- medicine cabinet
+- cctv
+- 2 swat bases
+- Very good optimized
