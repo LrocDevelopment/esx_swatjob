@@ -29,7 +29,7 @@ This is remake of esx_policejob
 - go server.cfg and put "start esx_swatjob"
 
 ## TODO
-- medicine cabinet
+- medicine cabinet ✅
 - cctv
-- 2 swat bases
+- 2 swat bases ✅
 - Very good optimized
