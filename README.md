@@ -29,7 +29,14 @@ This is remake of esx_policejob
 - go server.cfg and put "start esx_swatjob"
 
 ## TODO
-- medicine cabinet ✅
-- cctv
-- 2 swat bases ✅ Sandyshoress Sheriff & PoliceStation
+- 2 medicine cabinet Sandyshoress Sheriff & PoliceStation :unlock:
+- cctv :lock:
+- 2 swat bases Sandyshoress Sheriff & PoliceStation :unlock:
+- items added to sql morphine10mg & morphine5mg :unlock:
+- english and finland translation :unlock:
+- swat weapons & attachments :unlock:
+- swat vehicles :lock:
+
+
+
 - Very good optimized
