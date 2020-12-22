@@ -37,6 +37,4 @@ This is remake of esx_policejob
 - swat weapons & attachments :unlock:
 - swat vehicles :lock:
 
-
-
-- Very good optimized
+- Very good optimized :lock:
