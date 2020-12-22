@@ -36,5 +36,5 @@ This is remake of esx_policejob
 - english and finland translation :unlock:
 - swat weapons & attachments :unlock:
 - swat vehicles :lock:
-
+- revive & waking up :lock:
 - Very good optimized :lock:
