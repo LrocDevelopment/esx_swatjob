@@ -24,9 +24,14 @@ This is remake of esx_policejob
   * [esx_status](https://github.com/ESX-Org/esx_status)
 
 
-## Installing
-- drag and drop files in resources folder
+## Installing swatjob
+- drag and drop files in resources/esx folder
 - go server.cfg and put "start esx_swatjob"
+- enjoy
+
+## Installing Doorlock
+- replace your current Doorlock script with this
+- enjoy
 
 ## TODO
 - 2 medicine cabinet Sandyshoress Sheriff & PoliceStation :unlock:
@@ -38,3 +43,4 @@ This is remake of esx_policejob
 - swat vehicles :lock:
 - EMS interaction menu revive, waking up & Give morphine10mg :unlock:
 - Very good optimized :lock:
+- Dorlock script :unlock:
