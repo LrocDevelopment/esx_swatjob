@@ -36,7 +36,7 @@ This is remake of esx_policejob
 ## TODO
 - 2 medicine cabinet Sandyshoress Sheriff & PoliceStation :unlock:
 - cctv :lock:
-- 2 swat bases Sandyshoress Sheriff & PoliceStation :unlock:
+- 2 swat bases Sandyshoress Sheriff & PoliceStation :lock:
 - items added to sql morphine10mg & morphine5mg :unlock:
 - english and finland translation :unlock:
 - swat weapons & attachments :unlock:
