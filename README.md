@@ -44,3 +44,7 @@ This is remake of esx_policejob
 - EMS interaction menu revive, waking up & Give morphine10mg :unlock:
 - Very good optimized :lock:
 - Dorlock script :unlock:
+
+## Error fix
+- three mars queen error Fixed question is how? solution: this was DrawMarker(44 when i changed  to DrawMarker(21 it worked
+
